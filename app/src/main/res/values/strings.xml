@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vybe</string>
+    <string name="go">Go</string>
+    <string name="example">ex - www.google.com</string>
+    <string name="apply">Apply Your Code</string>
+    <string name="code">your code</string>
+</resources>
